@@ -8,6 +8,7 @@ module.exports = {
   env: {
     browser: true,
     es2021: true,
+    commonjs: true,
   },
   globals: {
     process: 'readonly',
