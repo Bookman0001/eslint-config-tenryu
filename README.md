@@ -11,7 +11,7 @@ You have to contain module as follows into your repository.
 "prettier": "^2.0.0",
 "react": "^17.0.0",
 "typescript": "^4.0.0"
-
+"jest": "^27.3.1"
 ```
 
 ## How to use
