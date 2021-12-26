@@ -4,7 +4,7 @@ This is common shareable eslint config.
 
 ## Dependency
 
-You have to contain moduke as follows into your repository.
+You have to contain module as follows into your repository.
 
 ```
 "eslint": "^8.0.0",
