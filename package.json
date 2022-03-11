@@ -10,7 +10,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "@typescript-eslint/experimental-utils": "5.13.0",
+    "@typescript-eslint/experimental-utils": "5.14.0",
     "typescript": "4.6.2"
   },
   "dependencies": {
