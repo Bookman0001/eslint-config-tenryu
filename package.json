@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tenryu",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "eslint config common plugin for react.js",
   "main": "index.js",
   "keywords": [
